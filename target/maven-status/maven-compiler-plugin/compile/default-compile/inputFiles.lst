@@ -1,0 +1,11 @@
+/home/samad/eclipse-workspace/systeme-distribue/src/main/java/com/agriculture/psql/PostgreSQLConnector.java
+/home/samad/eclipse-workspace/systeme-distribue/src/main/java/com/agriculture/rmi/SoilPhClient.java
+/home/samad/eclipse-workspace/systeme-distribue/src/main/java/com/agriculture/rest/TemperatureServiceServer.java
+/home/samad/eclipse-workspace/systeme-distribue/src/main/java/com/agriculture/soap/HumidityService.java
+/home/samad/eclipse-workspace/systeme-distribue/src/main/java/com/agriculture/soap/HumidityServer.java
+/home/samad/eclipse-workspace/systeme-distribue/src/main/java/com/agriculture/rmi/SoilPhService.java
+/home/samad/eclipse-workspace/systeme-distribue/src/main/java/com/agriculture/rest/TemperatureService.java
+/home/samad/eclipse-workspace/systeme-distribue/src/main/java/com/agriculture/soap/HumidityClient.java
+/home/samad/eclipse-workspace/systeme-distribue/src/main/java/com/agriculture/rmi/SoilPhServer.java
+/home/samad/eclipse-workspace/systeme-distribue/src/main/java/com/agriculture/alerts/AlertSystem.java
+/home/samad/eclipse-workspace/systeme-distribue/src/main/java/com/agriculture/rmi/SoilPhServiceImpl.java

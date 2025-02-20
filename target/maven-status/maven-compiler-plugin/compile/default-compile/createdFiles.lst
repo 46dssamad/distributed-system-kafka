@@ -1,0 +1,11 @@
+com/agriculture/soap/HumidityClient.class
+com/agriculture/rmi/SoilPhService.class
+com/agriculture/alerts/AlertSystem.class
+com/agriculture/soap/HumidityService.class
+com/agriculture/rmi/SoilPhServer.class
+com/agriculture/rest/TemperatureServiceServer.class
+com/agriculture/soap/HumidityServer.class
+com/agriculture/psql/PostgreSQLConnector.class
+com/agriculture/rmi/SoilPhServiceImpl.class
+com/agriculture/rmi/SoilPhClient.class
+com/agriculture/rest/TemperatureService.class
