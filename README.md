@@ -72,6 +72,8 @@ Before running the project, ensure you have the following installed:
 ## Contributing
 Feel free to contribute by submitting issues or pull requests.
 
-## License
-This project is licensed under [MIT License](LICENSE).
+## Credit
+AIT BAKAS Abdessamad
+AIT BELAHCEN Mehdi
+KATFY Othman
 
