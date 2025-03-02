@@ -73,7 +73,7 @@ Before running the project, ensure you have the following installed:
 Feel free to contribute by submitting issues or pull requests.
 
 ## Credit
-AIT BAKAS Abdessamad
-AIT BELAHCEN Mehdi
-KATFY Othman
+AIT BAKAS Abdessamad,
+AIT BELAHCEN Mehdi,
+KATFY Othman.
 
