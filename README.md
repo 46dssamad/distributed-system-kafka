@@ -29,8 +29,8 @@ Before running the project, ensure you have the following installed:
 ## Setup Instructions
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/YOUR_USERNAME/YOUR_REPO.git
-   cd YOUR_REPO
+   git clone https://github.com/46dssamad/distributed-system-kafka.git
+   cd distributed-system-kafka
    ```
 2. **Create PostgreSQL Database:**
    - Open PostgreSQL and create a database with the same name as used in the application.
